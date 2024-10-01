@@ -70,8 +70,8 @@
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/yourusername/transformer-translation.git
-   cd transformer-translation
+   git clone https://github.com/xxuan66/Transformer--Translator.git
+   cd Transformer--Translator
    ```
 
 2. **安装依赖**
