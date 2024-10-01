@@ -36,7 +36,7 @@
 
 请将 `cmn.txt` 数据集放置在 `data/` 目录下。该文件包含了中英文句子对，每行一个句子对，英文和中文句子以制表符分隔。
 
-您可以从以下链接下载数据集：[Tatoeba Project - cmn.txt](https://tatoeba.org/eng/downloads)
+您可以从以下链接下载数据集：[datasets](http://www.manythings.org/anki/)
 
 ## 运行步骤
 
