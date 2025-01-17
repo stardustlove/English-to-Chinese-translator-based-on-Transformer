@@ -1,5 +1,7 @@
 # 基于 Transformer 的中英文翻译模型
 
+stardustlove：本人fork此项目仅用于学习用途，尝试在原作者的数据集和数据处理基础上，自己写一遍transformer完成翻译
+
 本项目使用 PyTorch 从零手写实现了一个基于 Transformer 的中英文翻译模型。通过训练该模型，您可以输入英文句子，模型将输出对应的中文翻译。本项目旨在深入理解 Transformer 模型的原理和实现细节。
 
 ## 目录
